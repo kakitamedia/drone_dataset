@@ -1,1 +1,1 @@
-# drone_dataset
+# Distant Bird Detection Dataset for Safe Drone Flight
