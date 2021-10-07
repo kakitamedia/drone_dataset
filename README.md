@@ -15,7 +15,7 @@ Our dataset
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
 
-*Note:* aaaa 
+**Note:** 
 
 ## Annotation format
 
@@ -28,10 +28,12 @@ Our dataset is formatted in JSON and is a list of dictionalies of 'path', 'bbox'
         'bbox': [
             [x1, y1, w1, h1],
             [x2, y2, w2, h2],
+            ...
         ]
         'label': [
             'label1',
             'label2',
+            ...
         ]
     }
     ...
