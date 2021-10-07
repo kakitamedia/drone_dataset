@@ -1,6 +1,6 @@
 # Distant Bird Detection Dataset for Safe Drone Flight
 
-In this repository, we provide a dataset of bird detections captured by a drone camera at valious locations proposed in our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
+In this repository, we provide a dataset of bird detections captured by a drone camera at various locations proposed in our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
 
 <img src='images/samples.png'/>
 
