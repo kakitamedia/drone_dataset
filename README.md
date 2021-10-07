@@ -11,7 +11,7 @@ of training images, but there are no publicly-available datasets for bird detect
 
 ## Dataset overview
 Our dataset 
-* contains 62,106 manually annotated bird instances in 48395 images with a resolution of 3840 × 2160 pixels.
+* contains 62,106 manually annotated bird instances in 48,395 images with a resolution of 3840 × 2160 pixels.
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
 
@@ -38,9 +38,7 @@ Our dataset is formatted in JSON and is a list of dictionalies of 'image_path', 
 
 ## Data access
 
-### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
-
-### [train]() | [val]()
+### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations]()
 
 ## Citation
 If you are using our dataset, please add a reference to our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
