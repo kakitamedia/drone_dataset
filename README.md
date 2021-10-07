@@ -38,10 +38,9 @@ Our dataset
 
 ## Data access
 
-### Images
-[Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
+### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
 
-[train]() | [val]()
+### [train]() | [val]()
 
 ## Citation
 If you are using our dataset, please add a reference to our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
