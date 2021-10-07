@@ -17,7 +17,7 @@ Our dataset
 
 ## Annotation format
 
-Our dataset is formatted in JSON and is a list of dictionalies of 'image_path', 'bbox', 'label'.
+Our dataset is formatted in JSON and is a list of dictionalies of 'path', 'bbox', 'label'.
 
 ```yaml
 [
