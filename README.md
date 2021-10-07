@@ -6,7 +6,7 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 
 ## Annotation format
 
-'''json
+```json
 [
     {
         'path': file_path,
@@ -21,7 +21,7 @@ In this work, we propose a large dataset of bird detections captured by a drone 
     }
     ...
 ]
-'''
+```
 
 ## Data access
 
