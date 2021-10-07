@@ -1,13 +1,13 @@
 # Distant Bird Detection Dataset for Safe Drone Flight
 
-In this repository, we provide a large dataset of bird detections captured by a drone camera at valious locations proposed in our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
+In this repository, we provide a dataset of bird detections captured by a drone camera at valious locations proposed in our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
 
 <img src='images/samples.png'/>
 
 ## Abstract
 
 For the safe flight of drones, they must avoid the attacks of aggressive birds. These birds move very fast and must be detected far enough away. In recent years, deep learning has made it possible to detect small distant objects in RGB camera images. Since these methods are learning-based, they require a large amount 
-of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera. 
+of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera in various locations (e.g., fields, mountains, near houses).
 
 ## Dataset overview
 Our dataset 
