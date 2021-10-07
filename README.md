@@ -15,7 +15,7 @@ Our dataset
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
 
-**Note:** 
+**Note:** We added extra data (21,837 → 48,395 annotated images) (2021/10/7)
 
 ## Annotation format
 
@@ -50,7 +50,7 @@ If you are using our dataset, please add a reference to our [paper](http://www.m
 ```
 @inproceedings{,
   title={Distant Bird Detection for Safe Drone Flight and Its Dataset},
-  author={Sanae, Fujii and Kazutoshi, Akita and Ukita, Norimichi},
+  author={Sanae Fujii and Kazutoshi Akita and Norimichi Ukita},
   booktitle={International Conference on Machine Vision Applications (MVA)},
   year={2021}
 }
