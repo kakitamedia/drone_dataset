@@ -4,7 +4,7 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 
 <img src='images/samples.png'/>
 
-## Overview
+## Dataset overview
 Our dataset 
 * contains 62,106 manually annotated bird instances in 48395 images with a resolution of 3840 × 2160 pixels.
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
