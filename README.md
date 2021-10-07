@@ -22,7 +22,7 @@ Our dataset is formatted in JSON and is a list of dictionalies of 'image_path', 
 ```yaml
 [
     {
-        'path': file_path,
+        'path': 'path_to_image',
         'bbox': [
             [x1, y1, w1, h1],
             [x2, y2, w2, h2],
