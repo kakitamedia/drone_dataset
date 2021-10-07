@@ -6,7 +6,7 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 
 ## Annotation format
 
-```json
+```yaml
 [
     {
         'path': file_path,
