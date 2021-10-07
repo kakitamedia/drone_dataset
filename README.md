@@ -6,15 +6,30 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 
 ## Annotation format
 
+'''
+[
+    {
+        'path': file_path,
+        'bbox': [
+            [x1, y1, w, h],
+            [x2, y2, w, h],
+        ]
+        'label': [
+            'hawk',
+            'crow',
+        ]
+    }
+]
 
+'''
 
 ## Data access
 
+[Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
+[]
 
 ## Citation
 If you are using our dataset, please add a reference to our paper.
-
-[Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
 
 @inproceedings{,
   title={Distant Bird Detection for Safe Drone Flight and Its Dataset},
