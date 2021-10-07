@@ -4,6 +4,12 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 
 <img src='images/samples.png'/>
 
+## Overview
+Our dataset 
+* contains images with various backgrounds such as in fields, mountains ,and near houses.
+* 
+
+
 ## Annotation format
 
 ```yaml
@@ -26,7 +32,8 @@ In this work, we propose a large dataset of bird detections captured by a drone 
 ## Data access
 
 [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
-[]
+
+[train]() | [val]()
 
 ## Citation
 If you are using our dataset, please add a reference to our paper.
