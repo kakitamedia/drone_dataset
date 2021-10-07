@@ -1,14 +1,14 @@
 # Distant Bird Detection Dataset for Safe Drone Flight
 
-In this work, we propose a large dataset of bird detections captured by a drone camera at a large diversity of locations.
+In this work, we propose a large dataset of bird detections captured by a drone camera at a large diversity of locations (e.g., fields, mountains, and near houses).
 
 <img src='images/samples.png'/>
 
 ## Overview
 Our dataset 
-* contains images with various backgrounds such as in fields, mountains ,and near houses.
-* 
-
+* contains 62,106 manually annotated bird instances in 48395 images with a resolution of 3840 × 2160 pixels.
+* is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
+* have 3 object labels (i.e., hawk, crow, and wild bird.)
 
 ## Annotation format
 
