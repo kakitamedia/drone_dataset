@@ -19,7 +19,7 @@ Our dataset
 
 ## Annotation format
 
-Our dataset is formatted in JSON and is a list of dictionalies of 'path', 'bbox', 'label'.
+Our annotation JSON file consists of the following fields.
 
 ```yaml
 [
@@ -42,10 +42,10 @@ Our dataset is formatted in JSON and is a list of dictionalies of 'path', 'bbox'
 
 ## Data access
 
-### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations]()
+### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
 
 ## Citation
-If you are using our dataset, please add a reference to our [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME).
+Please cite this [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME) in your publications if this dataset helps your research..
 
 ```
 @inproceedings{,
