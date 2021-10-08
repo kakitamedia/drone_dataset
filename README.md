@@ -42,7 +42,7 @@ Our annotation JSON file consists of the following fields.
 
 ## Data access
 
-### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing)
+### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations](https://drive.google.com/file/d/12ncamxah03UYFmCxN3JnazTzzmCajz-F/view?usp=sharing)
 
 ## Citation
 Please cite this [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME) in your publications if this dataset helps your research..
