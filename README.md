@@ -11,7 +11,7 @@ of training images, but there are no publicly-available datasets for bird detect
 
 ## Dataset overview
 Our dataset 
-* contains 62,106 manually annotated bird instances in 48,395 images with a resolution of 3840 × 2160 pixels.
+* contains 62,106 manually annotated bird instances in 48,395 images with a resolution of 3840 × 2160 pixels (~67GB).
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
 
