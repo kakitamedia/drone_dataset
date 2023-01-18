@@ -9,13 +9,19 @@ In this repository, we provide a dataset of bird detections captured by a drone 
 For the safe flight of drones, they must avoid the attacks of aggressive birds. These birds move very fast and must be detected far enough away. In recent years, deep learning has made it possible to detect small distant objects in RGB camera images. Since these methods are learning-based, they require a large amount 
 of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera in various locations (e.g., fields, mountains, near houses).
 
+## Update
+[2023/01/18] Split the zip file of images
+[2021/10/07] Add extra data (21,837 → 48395 annotated images)
+
+## Licecnse
+
+Our dataset is released under the [MIT license](https://github.com/kakitamedia/drone_dataset/blob/main/LICENSE)
+
 ## Dataset overview
 Our dataset 
 * contains 62,106 manually annotated bird instances in 48,395 images with a resolution of 3840 × 2160 pixels (~67GB).
 * is devided into 42,790 training images with 52,036 instances and 5,605 validation images with 10,070 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
-
-**Note:** We added extra data on October 7th, 2021. (21,837 → 48,395 annotated images)
 
 ## Annotation format
 
@@ -42,7 +48,7 @@ Our annotation JSON file consists of the following fields.
 
 ## Data access
 
-### [Images](https://drive.google.com/file/d/10_gyG5GQLNRX89SUuSG1xy8MSUlbNwzv/view?usp=sharing) | [Annotations](https://drive.google.com/file/d/12ncamxah03UYFmCxN3JnazTzzmCajz-F/view?usp=sharing)
+### [Images](https://drive.google.com/drive/folders/11H30-Oh_Ybi_LzsRot2soHaNp2ZWlt4i?usp=share_link) | [Annotations](https://drive.google.com/file/d/12ncamxah03UYFmCxN3JnazTzzmCajz-F/view?usp=sharing)
 
 ## Citation
 Please cite this [paper](http://www.mva-org.jp/Proceedings/2021/papers/O1-1-3.pdf?fbclid=IwAR2CwkCVoLEDIfAUxhSzPnA44QYXR5MkJzevGsACb7zFX9hI216z1TinCME) in your publications if this dataset helps your research..
