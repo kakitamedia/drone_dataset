@@ -10,12 +10,12 @@ For the safe flight of drones, they must avoid the attacks of aggressive birds. 
 of training images, but there are no publicly-available datasets for bird detection taken from drones. In this work, we propose a new dataset captured by a drone camera in various locations (e.g., fields, mountains, near houses).
 
 ## Update
-[2023/01/18] Split the zip file of images
+[2023/01/18] Split the zip file of images </br>
 [2021/10/07] Add extra data (21,837 → 48395 annotated images)
 
 ## Licecnse
 
-Our dataset is released under the [MIT license](https://github.com/kakitamedia/drone_dataset/blob/main/LICENSE)
+Our dataset is released under the [MIT license](https://github.com/kakitamedia/drone_dataset/blob/main/LICENSE).
 
 ## Dataset overview
 Our dataset 
