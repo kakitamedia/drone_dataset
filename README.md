@@ -12,7 +12,7 @@ of training images, but there are no publicly-available datasets for bird detect
 ## Update
 [2023/01/29] Bug fix: Delete duplicate instances in annotation files </br>
 [2023/01/18] Split the zip file of images </br>
-[2021/10/07] Add extra data (21,837 → 48395 annotated images)
+[2021/10/07] Add extra data (21,837 → 47,260 annotated images)
 
 ## Licecnse
 
@@ -20,7 +20,7 @@ Our dataset is released under the [MIT license](https://github.com/kakitamedia/d
 
 ## Dataset overview
 Our dataset 
-* contains 62,106 manually annotated bird instances in 48,395 images with a resolution of 3840 × 2160 pixels (~67GB).
+* contains 60,971 manually annotated bird instances in 47,260 images with a resolution of 3840 × 2160 pixels (~67GB).
 * is devided into 42,790 training images with 52,036 instances and 4,470 validation images with 8,935 instances.
 * have 3 object labels (i.e., hawk, crow, and wild bird.)
 
